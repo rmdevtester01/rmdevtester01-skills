@@ -1,0 +1,8 @@
+{
+  "name": "par3-remy",
+  "description": "3rd-party skills sourced from aiwithremy. Namespace 'par3-remy' encodes both the 3rd-party tier (par3) and the source (remy = aiwithremy).",
+  "version": "0.1.0",
+  "author": {
+    "name": "aiwithremy (source); LLM Council authored by Ole Lehmann; packaged by rmdevtester01"
+  }
+}

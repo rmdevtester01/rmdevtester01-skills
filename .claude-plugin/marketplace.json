@@ -1,0 +1,46 @@
+{
+  "name": "rmdevtester01-skills",
+  "owner": {
+    "name": "rmdevtester01"
+  },
+  "metadata": {
+    "description": "Personal skills marketplace, organized into category plugins under skills-marketplace/. Third-party skills are namespaced par3-<source> so their origin is always visible."
+  },
+  "plugins": [
+    {
+      "name": "par3-pd",
+      "source": "./skills-marketplace/par3-pd",
+      "description": "3rd-party skills from content creator Patrick Dang (list building, offer validation)."
+    },
+    {
+      "name": "par3-remy",
+      "source": "./skills-marketplace/par3-remy",
+      "description": "3rd-party skills sourced from aiwithremy (LLM Council)."
+    },
+    {
+      "name": "token-tools",
+      "source": "./skills-marketplace/token-tools",
+      "description": "Token-management skills: usage tracking, efficiency, and artifact token analysis."
+    },
+    {
+      "name": "research",
+      "source": "./skills-marketplace/research",
+      "description": "Research skills: boer (business-opportunity discovery)."
+    },
+    {
+      "name": "career",
+      "source": "./skills-marketplace/career",
+      "description": "Career skills: evidence-weighted job-posting triage (recruiter + hiring-manager reviewer) and interview prep."
+    },
+    {
+      "name": "gtm",
+      "source": "./skills-marketplace/gtm",
+      "description": "GTM / consulting workflow skills: ICP building (front end of the ICP -> positioning -> messaging chain)."
+    },
+    {
+      "name": "core",
+      "source": "./skills-marketplace/core",
+      "description": "Cross-cutting skills meant to apply broadly: reframing, carryover, and the skills index."
+    }
+  ]
+}

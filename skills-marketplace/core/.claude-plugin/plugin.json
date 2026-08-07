@@ -1,0 +1,8 @@
+{
+  "name": "core",
+  "description": "Cross-cutting skills meant to apply broadly: level reframing, summary carryover, resume carryover, and the skills index.",
+  "version": "0.1.8",
+  "author": {
+    "name": "rmdevtester01"
+  }
+}

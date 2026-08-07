@@ -1,0 +1,8 @@
+{
+  "name": "par3-pd",
+  "description": "3rd-party skills from content creator Patrick Dang. Namespace 'par3-pd' encodes both the 3rd-party tier (par3) and the source (pd = Patrick Dang).",
+  "version": "0.1.1",
+  "author": {
+    "name": "Patrick Dang (original author); packaged by rmdevtester01"
+  }
+}

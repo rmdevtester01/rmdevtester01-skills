@@ -1,0 +1,8 @@
+{
+  "name": "token-tools",
+  "description": "Token-management skills: usage tracking (token-tracker), efficiency, and artifact token analysis.",
+  "version": "0.1.1",
+  "author": {
+    "name": "rmdevtester01"
+  }
+}
